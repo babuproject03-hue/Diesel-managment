@@ -1,0 +1,5 @@
+{
+  "name": "Diesel Management System",
+  "description": "A comprehensive system to manage diesel income, expenses, stock, payments, and generate insightful reports. Features role-based access and a mobile-friendly interface for on-the-go management.",
+  "requestFramePermissions": []
+}
